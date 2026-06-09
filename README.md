@@ -1,6 +1,7 @@
 # School App MVP
 
 A lightweight student information system designed to manage academic records, student profiles, and basic school analytics.
+This project is part of the Opportunity Systems Ecosystem, a broader research initiative studying educational opportunity distribution.
 
 ## Purpose
 
